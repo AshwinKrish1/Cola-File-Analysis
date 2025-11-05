@@ -1,0 +1,6 @@
+streamlit
+PyMuPDF
+pandas
+numpy
+pytesseract
+python-pptx
